@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/dsherret/ts-nameof/commit/5e817b83998d5e3735c2d4dc991c86a9dcffdecd",
       "git:hexsha": "5e817b83998d5e3735c2d4dc991c86a9dcffdecd",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/dsherret/ts-nameof/commit/5bc1a65c3e0bde4f81bdf59641222b4fd7ec8b85",
